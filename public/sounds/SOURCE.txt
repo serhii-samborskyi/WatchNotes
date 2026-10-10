@@ -1,0 +1,4 @@
+GeneralUser GS 2.0.3 by S. Christian Collins
+https://schristiancollins.com/generaluser
+Source: https://github.com/mrbumpy409/GeneralUser-GS/tree/684543d5e5efaef08d02be50dcda8d552478fa60
+Unmodified SoundFont; see LICENSE-GeneralUser-GS.txt.
